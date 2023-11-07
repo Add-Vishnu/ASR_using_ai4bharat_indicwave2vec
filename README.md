@@ -29,3 +29,6 @@ Malayalam_2:
 
 Malayalam_3:
 ആക്രമണമുണ്ടായ ഉടൻ ഒട്ടേറെപ്പേർ പ്രാണരക്ഷാർഥം ഏറ്റവും മുകളിലത്തെ നിലയിലേക്ക് ഓടിക്കയറി
+
+
+https://huggingface.co/ai4bharat/indicwav2vec-hindi
